@@ -1,8 +1,8 @@
 excerpt_separator: ""
 pygments: true
 markdown: kramdown
-url: http://mmvninja.github.io
+url: http://mmv.ninja
 title: mmv
-tagline: A log of everyday life
-description: My awesome new site
+tagline: 
+description: My personal blog
 paginate: 5
